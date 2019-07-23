@@ -48,6 +48,7 @@
     "request": "2.87.0",
     "semver": "5.6.0",
     "verdaccio-audit": "1.2.0",
+    "verdaccio-github-oauth-ui": "1.7.4",
     "verdaccio-htpasswd": "0.2.3"
   },
   "devDependencies": {
